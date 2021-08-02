@@ -1,5 +1,5 @@
 //Welcome to Durga prasad coding
-
+/*These codes is used to calculate the Direction of the Motor*/
 
  #define dir 9
  #define pwm 7
